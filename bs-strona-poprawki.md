@@ -57,3 +57,4 @@ poprawić stylowanie tabeli
 
 np. w taki sposób
 ![](przydatne-informacje-fix-kursy-walut.png)
+![](mobile-kursy-walut-fix.png)
